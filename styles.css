@@ -4,11 +4,22 @@
     background-color: rgb(190, 121, 255);
 }
 
+.parent {
+    background-color: red;
+}
+
 .child-one {
-    position:relative;
+    position:absolute;
     background-color: darkgreen;
-    left:20px;
-    top:30px;
     color:#fff;
 }
+.child-two {
+    background-color: yellow;
+    
+}
+.child-three {
+    background-color:orchid;
+    
+}
+
 

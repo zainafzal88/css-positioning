@@ -3,11 +3,10 @@
     border: 2px solid;
     background-color: rgb(190, 121, 255);
 }
-
 .parent {
     background-color: red;
+    position: relative;
 }
-
 .child-one {
     position:absolute;
     top: 10px;

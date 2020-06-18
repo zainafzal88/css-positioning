@@ -1,0 +1,5 @@
+.static {
+    position: static;
+    border: 2px solid;
+    background-color: rgb(190, 121, 255);
+}

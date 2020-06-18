@@ -10,6 +10,7 @@
 
 .child-one {
     position:absolute;
+    top: 10px;
     background-color: darkgreen;
     color:#fff;
 }

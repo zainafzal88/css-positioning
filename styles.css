@@ -3,3 +3,12 @@
     border: 2px solid;
     background-color: rgb(190, 121, 255);
 }
+
+.child-one {
+    position:relative;
+    background-color: darkgreen;
+    left:20px;
+    top:30px;
+    color:#fff;
+}
+
